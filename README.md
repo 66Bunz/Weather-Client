@@ -12,7 +12,7 @@
     <a href="https://github.com/66Bunz/Weather-Client/network"><img
             src="https://img.shields.io/github/forks/66Bunz/Weather-Client.svg" alt="Forks"></a>
     ·
-    <a href="https://github.com/66Bunz/Weather-Client/blob/master/LICENSE"><img
+    <a href="https://github.com/66Bunz/Weather-Client/blob/main/LICENSE"><img
             src="https://img.shields.io/github/license/66Bunz/Weather-Client.svg" alt="License"></a>
     ·
     <a href="https://GitHub.com/66Bunz/Weather-Client/issues/"><img
