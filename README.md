@@ -1,8 +1,18 @@
+
+<p align="center">
+    <a href="https://github.com/66Bunz/Weather-Client">
+        <img src="https://user-images.githubusercontent.com/66331265/149902107-06fc2a43-e7b4-41ca-96cd-187b94963567.png"
+            alt="Logo" width="auto" height="300">
+    </a>
+</p>
+
+
 <h1 align="center">WEATHER CLIENT</h1>
 
 <p align="center">
     <b>A modern Weather Client GUI with a lot of features</b>
 </p>
+
 
 <!-- BUTTONS -->
 <p align="center">
@@ -37,6 +47,7 @@
     <li><a href="#license">License</a></li>
     <li><a href="#credits">Credits</a></li>
     <li><a href="#contacts">Contacts</a></li>
+    <li><a href="#images">Images</a></li>
 </details><br>
 
 
@@ -107,3 +118,16 @@ provided by the <a href="openweathermap.org">OpenWeather API</a>.
 - [SayThanks](https://saythanks.io/to/66Bunz): 66Bunz
 - [Twitter](https://twitter.com/66Bunz): 66Bunz
 - [Facebook](https://www.facebook.com/Bunz66): Bunz66
+
+    
+<h2 align="center">Images</h2>
+<table>
+  <tr> 
+    <th>
+      <a><img src="https://user-images.githubusercontent.com/66331265/149902759-231166d8-52e0-4ec2-afc3-2bb5d6f57db9.png" alt="Image"></a>
+    </th>
+    <th>
+      <a><img src="https://user-images.githubusercontent.com/66331265/149902764-85de0f6d-f0ea-427e-a57b-f861bf837fd1.png" alt"Image"></a>
+    </th>
+  </tr>
+</table>
